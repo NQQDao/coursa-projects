@@ -1,2 +1,2 @@
-# coursa-projects
-learn and create the projects on Coursa
+# Coursera-projects
+learn and create projects on Coursera
